@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657652585352",
+    "firebase_url": "https://instamobiletask.firebaseio.com",
+    "project_id": "instamobiletask",
+    "storage_bucket": "instamobiletask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657652585352:android:162ff04e09114d5e45203d",
+        "android_client_info": {
+          "package_name": "com.instamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657652585352-rselcj90tutvun1jckbck9knq8c9ga8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoaAy2GfE2nGC5tRioCq7q56_dYqOzaRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657652585352-rselcj90tutvun1jckbck9knq8c9ga8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
