@@ -7,8 +7,8 @@ import {StatusBar} from 'react-native';
 import {Assets} from './App/Assets/Assets';
 
 var config = {
-  databaseURL: 'https://instamobiletask.firebaseio.com',
-  projectId: 'instamobiletask',
+  databaseURL: 'https://example.firebaseio.com',
+  projectId: 'example',
 };
 if (!firebase.apps.length) {
   firebase.initializeApp(config);
